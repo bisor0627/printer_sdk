@@ -1,0 +1,6 @@
+// 상태 모니터링 예제
+void main() {
+  // ...existing code...
+  print('상태 모니터링 예제');
+  // ...existing code...
+}

@@ -1,0 +1,6 @@
+// 기본 인쇄 예제
+void main() {
+  // ...existing code...
+  print('기본 인쇄 예제');
+  // ...existing code...
+}
